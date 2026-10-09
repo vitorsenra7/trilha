@@ -1,0 +1,10 @@
+{
+  "name": "trilha-educacao-em-foco",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Trilha de vídeos - Educação em Foco",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.3"
+  }
+}
